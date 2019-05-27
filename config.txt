@@ -1,0 +1,6 @@
+owner=579808920873467904
+prefix=8
+game=Type 8help
+stayinchannel=true
+songinstatus=false
+token=NTgyNDk5MzA1NzQzNzEyMjU2.XOusyA.qJLZI_lRxe9Y_Ek7xENvoUvKmxs
